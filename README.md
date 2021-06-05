@@ -1,6 +1,12 @@
 # Dell-Optiplex-780-OC-EFI-Catalina
 
-OpenCore EFI files for Dell Optiplex 780 MT to run macOS Catalina 10.15.6 (Available for download in Releases)
+OpenCore booatloader EFI files needed for the Dell Optiplex 780 MT to run macOS Catalina 10.15.6 (Available for download in Releases)
+
+If you need help making a bootable USB, then please do follow the Dortania OpenCore Install Guide to create a Legacy Installer as this machine's motherboard is NOT UEFI capable, only BIOS capable.
+
+Thanks, and enjoy!
+
+Here are some screenshots for proof!
 
 Screenshots:
 
