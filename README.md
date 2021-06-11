@@ -18,7 +18,7 @@ _**Whilst this is a booting and "mostly" working EFI for this machine, do bear i
 
 - **LAN Chipset: Intel 82574L Gigabit Network Connection**
 
-- **WiFI + BT Chipset: AZUREWAVE CE-123H Mini Mini PCI-E 802.11 AC + BT 4.0 **
+- **WiFI + BT Chipset: AZUREWAVE CE-123H Mini Mini PCI-E 802.11 AC + BT 4.0**
 
 - **RAM: 8GB / 16GB DDR3 1066Mhz**
 
