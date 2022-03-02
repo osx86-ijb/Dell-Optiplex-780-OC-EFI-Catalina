@@ -31,7 +31,6 @@ _**Whilst this is a booting and "mostly" working EFI for this machine, do bear i
 ## Authors
 
 - [@osx86_ijb](https://www.github.com/osx86-ijb)
-- [@Core-x86 Team](https://discord.com/invite/yCYpdZE)
 
 ## Acknowledgements
 - [Acidanthera & OpenCore Teams](https://github.com/acidanthera)
@@ -42,8 +41,6 @@ _**Whilst this is a booting and "mostly" working EFI for this machine, do bear i
 [How to add EFI files to USB and or HDD/SSD, and more knowledge](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/opencore-efi.html)
 
 ## Badges
-
-[![Hackintosh Legend](https://img.shields.io/badge/Core-x86-blue)](https://github.com/Core-x86)
 
 [![Core x86](https://img.shields.io/badge/Hackintosh-Legend-red)](https://github.com/osx86-ijb)
 
