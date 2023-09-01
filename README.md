@@ -1,9 +1,10 @@
+<div align="center">
 
-# Dell Optiplex 780 macOS OpenCore EFI
+# Dell Optiplex 780 macOS OpenCore EFI</h1>
 
 This is the OpenCore EFI files needed to boot macOS Catalina on the Dell Optiplex 780 MT.
 
-![Dell Optiplex 780](https://i.ibb.co/wBDWDKW/optiplex780.jpg)
+![68747470733a2f2f692e6962622e636f2f77424457444b572f6f707469706c65783738302e6a7067](https://github.com/osx86-ijb/Dell-Optiplex-780-OC-EFI-Catalina/assets/67184728/ab986560-45b5-421c-a59f-e227bcd2f3f4)
 
 ## DISCLAIMER
 
@@ -11,6 +12,8 @@ THIS INFORMATION/RESEARCH HAS BEEN DONE AND SHARED PURELY FOR EXPERIMENTAL AND R
 
 ## !! ATTENTION !!
 _**Whilst this is a booting and "mostly" working EFI for this machine, do bear in mind that everyone has different hardware peripherals that they use, but for the most part, this should get it booted for you. There always could be more fine tuning done as well. This is meant to get you going in general.**_
+
+</div>
 
 ## The Hardware specs of this build / motherboard used is as follows:
 
@@ -46,11 +49,14 @@ _**Whilst this is a booting and "mostly" working EFI for this machine, do bear i
 
 [![Shameless Devildriver Plug](https://img.shields.io/badge/Go%20There-Away%20From%20Me-brightgreeng)](https://www.youtube.com/watch?v=PjACk_dw1v8)
 
+
+<div align="center">
+
 ### Screenshots:
 
-![Desktop Screenshot - About This Mac](Screenshots/Screenshot_01.png?raw=true "Desktop Screenshot - About This Mac")
-
 ![About This Mac](Screenshots/Screenshot_02.png?raw=true "About This Mac")
+
+![Desktop Screenshot - About This Mac](Screenshots/Screenshot_01.png?raw=true "Desktop Screenshot - About This Mac")
 
 ![System Information - Hardware Overview](Screenshots/Screenshot_03.png?raw=true "System Information - Hardware Overview")
 
@@ -69,3 +75,5 @@ _**Whilst this is a booting and "mostly" working EFI for this machine, do bear i
 ![System Information - SATA](Screenshots/Screenshot_10.png?raw=true "System Information - SATA")
 
 ![System Information - USB](Screenshots/Screenshot_11.png?raw=true "System Information - USB")
+
+</div>
